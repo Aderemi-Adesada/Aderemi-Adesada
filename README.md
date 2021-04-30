@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aderemi-Adesada
-- 👀 I’m interested in blender pipeline development
+- 👀 I’m interested in 3d pipeline development
 - 📫 How to reach me adesadaaderemi@gmail.com
 
 <!---
