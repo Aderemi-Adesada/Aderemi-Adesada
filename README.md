@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Aderemi-Adesada
-- 📫 How to reach me adesadaaderemi@gmail.com
+- 👋 Hi, I’m  Aderemi Adesada
+- 📫 you can reach me on adesadaaderemi@gmail.com
 
 <!---
 Aderemi-Adesada/Aderemi-Adesada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
